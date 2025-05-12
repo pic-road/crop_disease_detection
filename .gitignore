@@ -1,0 +1,20 @@
+# Ignore uploaded files
+static/uploads/
+developing-models/FINE_TUNING_VGG16.ipynb
+
+#ignore a model file
+models/VGG16.h5
+
+# Don't ignore model files
+!models/
+!models/MobileNet.h5
+!static/demo/
+!developing-models/MobileNet.ipynb
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
