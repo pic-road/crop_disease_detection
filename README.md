@@ -82,7 +82,7 @@ crop-disease-detection/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/crop-disease-detection.git
+   git clone https://github.com/pic-road/crop_disease_detection.git
    cd crop-disease-detection
    pip install -r requirements.txt
    ```
